@@ -1,7 +1,7 @@
 # GoPooly
-
-## Multithreading Golang
 Multithreading golang dengan thread pool
+
+## Thread Pooling Golang
 
 ## Installation
 
